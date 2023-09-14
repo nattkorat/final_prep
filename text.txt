@@ -1,3 +1,5 @@
 This is the text file created in the main
 
 LOCAL BRANCH
+CLOUD BRANCH
+MAIN BRANCH
